@@ -6,7 +6,14 @@ CopycatKiller 是一个面向原创作者、编辑与内容工作者的作品相
 
 - **在线版本**：https://copycatkillertenlo.netlify.app/
 - **AI Skill**：[`SKILL.md`](./SKILL.md)
-- **使用示例**：[`examples/usage-examples.md`](./examples/usage-examples.md)
+- **查看脱敏示例**：[`examples/anonymized-output-example.md`](./examples/anonymized-output-example.md)
+- **更多使用示例**：[`examples/usage-examples.md`](./examples/usage-examples.md)
+
+### 查看脱敏示例
+
+[`examples/anonymized-output-example.md`](./examples/anonymized-output-example.md) 使用两段完全虚构的“社区图书馆夜读计划”文本，完整展示从公共事实／思想观点过滤，到具体表达对照、顺序与结构映射、反向证据和分级线索整理的过程。
+示例特意保留支持与削弱单一路径解释的材料，便于快速判断 Skill 实际会输出什么，而不是只阅读方法说明。
+示例仅用于文本相似性线索整理，不构成法律意见，也不会自动得出“构成侵权”或“已经抄袭”的结论。
 
 ## ⚠️ 法律参考声明
 
