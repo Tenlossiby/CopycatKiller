@@ -1,0 +1,37 @@
+# Licensing
+
+CopycatKiller uses different licenses for software and content.
+
+## Software
+
+Unless a source-code file states otherwise, software source code in this repository is licensed under the **Apache License, Version 2.0**.
+
+Official license text:
+https://www.apache.org/licenses/LICENSE-2.0
+
+SPDX identifier: `Apache-2.0`
+
+## Content and documentation
+
+Unless a file states otherwise, the following materials are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**:
+
+- `SKILL.md`
+- `README.md`
+- `examples/`
+- other prose documentation and method descriptions
+
+Canonical license page:
+https://creativecommons.org/licenses/by/4.0/
+
+Legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+SPDX identifier: `CC-BY-4.0`
+
+## Attribution
+
+For reused or adapted content, an attribution in the following form is recommended:
+
+`CopycatKiller by Tenlossiby — https://github.com/Tenlossiby/CopycatKiller — CC BY 4.0`
+
+Indicate if you modified the material. License terms govern where this summary differs from the official legal text.
